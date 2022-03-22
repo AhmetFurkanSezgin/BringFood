@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bring Food</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="sepete_git">Sepete Git</string>
+    <string name="sepete_ekle">Sepete Ekle</string>
+    <string name="porsiyon_fiyat">Porsiyon Fiyatı:</string>
+    <string name="yemek_ad">Yemek Adı:</string>
+    <string name="sil">Sil</string>
+    <string name="toolbarFoodText">Yemek Getir</string>
+    <string name="toolbarBagText">Sepet</string>
+    <string name="toolbarDetailText">Yemek Detayı</string>
+</resources>
